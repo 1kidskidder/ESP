@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1kidskidder/Duckiet/main/hrbdh",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1kidskidder/JUJUESP/main/jujuesp",true))()
